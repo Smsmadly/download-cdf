@@ -1,2 +1,2 @@
 # download-cdf
-download all cdf from wolfram.ipynb
+download all cdf from wolfram
